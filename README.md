@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elena-Bylina
 - 👀 I’m interested in Anaplan, R, Tableau
-- 🌱 I’m currently learning project management & data analysis
+- 🌱 I’m financial and data analyst / project and team manager
 - 📫 How to reach me: [LinkedIn profile](www.linkedin.com/in/elenabylina)
 
 <!---
